@@ -1,0 +1,7 @@
+E:\repositorio\XPTOTech\Back\XPTOTech.WebApi\obj\Debug\net6.0\XPTOTech.WebApi.csproj.AssemblyReference.cache
+E:\repositorio\XPTOTech\Back\XPTOTech.WebApi\obj\Debug\net6.0\XPTOTech.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositorio\XPTOTech\Back\XPTOTech.WebApi\obj\Debug\net6.0\XPTOTech.WebApi.AssemblyInfoInputs.cache
+E:\repositorio\XPTOTech\Back\XPTOTech.WebApi\obj\Debug\net6.0\XPTOTech.WebApi.AssemblyInfo.cs
+E:\repositorio\XPTOTech\Back\XPTOTech.WebApi\obj\Debug\net6.0\XPTOTech.WebApi.csproj.CoreCompileInputs.cache
+E:\repositorio\XPTOTech\Back\XPTOTech.WebApi\obj\Debug\net6.0\XPTOTech.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\repositorio\XPTOTech\Back\XPTOTech.WebApi\obj\Debug\net6.0\XPTOTech.WebApi.MvcApplicationPartsAssemblyInfo.cache
